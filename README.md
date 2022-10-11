@@ -1,6 +1,6 @@
 # Hi, my name is Bruno
-## I'm a Jr. Font-end Developer!
-### My favorite languages are Javascript and Python
+## I'm a Font-end Developer!
+### My favorite language is Javascript
 
 I'm a big fan of UI and SASS too!
 
